@@ -40,6 +40,6 @@ Projenin devamında aşağıdaki çalışmaların gerçekleştirilmesi planlıyo
 - ER diyagramının hazırlanması.
 - Veritabanının test edilmesi.
 
-7. Proje Durumu
+ Proje Durumu
 
 Projenin veritabanı oluşturma ve temel tablo tasarımı aşaması tamamladım.
