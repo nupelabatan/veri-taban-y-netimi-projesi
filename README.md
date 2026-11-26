@@ -16,3 +16,30 @@ Bu proje, şehir genelindeki geri dönüşüm süreçlerini otomatize etmek, vat
 6. **OdulTalepleri:** Vatandaşların puan harcayarak oluşturduğu ödül siparişleri
 7. **Personeller:** Toplama noktalarında görevli saha personel bilgileri
 8. **ToplamaAraclari:** Atıkları toplayan araçların ve sorumlu personellerin kaydı
+ Kullanılan Teknolojiler
+
+- MySQL
+- MySQL Workbench
+
+5. Gerçekleştirilen Çalışmalar
+
+- Veritabanı oluşturdum.
+- 8 temel veritabanı tablosu hazırlayıp SQL kodlarını yükledim.
+- Tablolar arasında birincil anahtar (Primary Key) yapıları oluşturdum.
+- İlgili tablolar arasında yabancı anahtar (Foreign Key) bağlantıları kurdum.
+- Veritabanı oluşturma kodları "schema.sql" dosyasına kaydedip yükledim.
+- 
+Projenin Aşamaları
+
+Projenin devamında aşağıdaki çalışmaların gerçekleştirilmesi planlıyorum.
+
+- Örnek verilerin veritabanına eklenmesi.
+- Veri ekleme, silme, güncelleme ve listeleme sorgularının hazırlanması.
+- İlişkili tablolar üzerinde JOIN sorgularının oluşturulması.
+- Trigger yapılarının geliştirilmesi.
+- ER diyagramının hazırlanması.
+- Veritabanının test edilmesi.
+
+7. Proje Durumu
+
+Projenin veritabanı oluşturma ve temel tablo tasarımı aşaması tamamladım.
